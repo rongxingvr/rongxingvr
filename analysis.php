@@ -122,7 +122,7 @@ if (!strpos($type, ".flv")) {
 	?><script type="text/javascript" src="../js/flv.min.js"></script><?php 
 }
 if ($yzm["public_dmku"] == "on") {
-	$dmku = "https://vip.parwix.com:4433/dmku/";
+	$dmku = "https://test.rongxingvr.com/dmku/";
 } else {
 	$dmku = "/dmku/";
 }
